@@ -836,6 +836,11 @@ a {
 .cid-sMwZfM86OM .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-sMwZfM86OM .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
+}
 .cid-sMwZfM86OM .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1117,12 +1122,12 @@ a {
 .cid-sP90GPlKpz {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sMBDP0QsR6 {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 @media (max-width: 991px) {
   .cid-sMBDP0QsR6 .image-wrapper {
@@ -1143,12 +1148,12 @@ a {
 .cid-sMx8tAAIy0 {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sMx8r6iELh {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-sMx8r6iELh .mbr-section-subtitle {
   text-align: left;
@@ -1159,17 +1164,17 @@ a {
 .cid-sP92aUtrXw {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-sP92AeyS9j {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sP9AhcdfMZ {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 @media (max-width: 991px) {
   .cid-sP9AhcdfMZ .image-wrapper {
@@ -1185,17 +1190,17 @@ a {
 .cid-sP9AOlhW68 {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sP933VVwZ6 {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-sP93WEOYjp {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sP93WEOYjp .mbr-section-title {
   text-align: left;
@@ -1203,7 +1208,7 @@ a {
 .cid-sP93M6MQWT {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sP94XlzIgP {
   padding-top: 15px;
